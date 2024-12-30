@@ -1,41 +1,36 @@
-# Hi there! 👋
+# Welcome to My GitHub Profile 👋
 
 ## About Me
 
-- 👩‍💻 **Professional**: I am a Data Analyst with 10+ years of experience in IT, currently working with Capco Technologies. My expertise lies in data analysis, PySpark, and automation, with a passion for artificial intelligence and financial analysis.
-- 📍 **Location**: Based in Delhi, India.
-- 🎓 **Education**: Recently completed M.Tech in Data Science and Engineering from BITS, Pilani (WILP) in March 2024.
-- 📚 **Current Goals**: Searching for patterns in data.
+- 👩‍💻 **Professional Expertise**: With over 10 years of experience in IT and Data Analytics, I specialize in transforming complex data into actionable insights. Currently working at Capco Technologies, I bring expertise in data analysis, automation, and leveraging technology to optimize wealth management strategies.
+- 🎓 **Academic Credentials**: M.Tech in Data Science and Engineering from BITS Pilani (WILP), completed in March 2024. I am also preparing for CFA Level 1 to deepen my understanding of financial systems and investment strategies.
+- 📍 **Location**: Based in India.
 
-## Interests
+## My Passion for Wealth Management
 
-- 🤖 Exploring AI and machine learning technologies.
-- 📈 Financial analysis and traditional accounting tools.
-- 🧘 Health and wellness: Jogging, mindful routines, and healthy living.
-- 💡 Learning and contributing to open-source projects.
+I combine technical acumen with a deep understanding of financial markets to develop strategies that maximize wealth growth. From analyzing market trends to automating financial data processing, I aim to deliver insights that drive results.
 
-## Technical Skills
+## Key Skills
 
-- **Programming**: Python, PySpark, SQL
+- **Programming & Data Analytics**: Python, PySpark, SQL
 - **Tools**: JIRA, PostgreSQL, GitHub, VSCode
-- **Data Visualization**: Power BI, exploring open-source tools like Apache Superset
+- **Data Visualization**: Creating impactful visuals using Power BI and exploring tools like Apache Superset
+- **Financial Analysis**: Skilled in building time-series visuals such as RSI and MACD to support informed investment decisions
 
-## Projects
+## Selected Projects
 
-- 🏗 **Data Automation**: Automated execution of BSE indices data processing using PySpark.
-- 📊 **Financial Data Visualization**: Building time-series visuals like RSI and MACD using Python and visualization tools.
-- 🌐 **AI Exploration**: Researching and contributing to AI-based applications and use cases.
+- 🏗 **Financial Data Automation**: Automated BSE indices data processing using PySpark, streamlining data workflows and improving accuracy.
+- 📊 **Market Trend Analysis**: Built interactive time-series visualizations (RSI, MACD) to uncover actionable market insights.
+- 🌐 **AI Integration**: Researched AI-driven solutions to enhance financial analysis and decision-making.
 
-## Fun Facts
+## Vision
 
-- 👓 I wear glasses and embrace a laid-back yet health-conscious lifestyle.
-- 🌟 I am always curious about exploring life, earth, and intellectual growth.
-- 🏃‍♀️ I enjoy jogging and aim for 1.6 km in 10 minutes daily.
+I firmly believe in the power of combining data science with financial expertise to create innovative wealth management solutions. My approach is rooted in data-driven decision-making, enabling consistent growth in ever-changing markets.
 
-## Let's Connect
+## Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/) 
+- 💼 [LinkedIn](https://www.linkedin.com/)
 - 🛠 [GitHub](https://github.com/)
 
 ---
-Feel free to explore my repositories and projects. I am open to collaboration and knowledge sharing!
+Explore my repositories to see how I combine data science and financial analysis to craft robust investment strategies. I am always open to collaboration and discussions on creating value through technology and finance!
