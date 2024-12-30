@@ -15,7 +15,7 @@ I combine technical acumen with a deep understanding of financial markets to dev
 - **Programming & Data Analytics**: Python, PySpark, SQL
 - **Tools**: JIRA, PostgreSQL, GitHub, VSCode
 - **Data Visualization**: Creating impactful visuals using Power BI and exploring tools like Apache Superset
-- **Financial Analysis**: Skilled in building time-series visuals such as RSI and MACD to support informed investment decisions
+- **Financial Analysis**: Skilled in building time-series data models such as RSI and MACD to support informed investment decisions
 
 ## Selected Projects
 
