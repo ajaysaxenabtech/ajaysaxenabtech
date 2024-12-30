@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# Searching for the patterns!! U+1F914
 
 ## About Me
 
