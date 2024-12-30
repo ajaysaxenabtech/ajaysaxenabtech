@@ -3,7 +3,7 @@
 ## About Me
 
 - 👩‍💻 **Professional Expertise**: With over 10 years of experience in IT and Data Analytics, I specialize in transforming complex data into actionable insights. Currently working at Capco Technologies, I bring expertise in data analysis, automation, and leveraging technology to optimize wealth management strategies.
-- 🎓 **Academic Credentials**: M.Tech in Data Science and Engineering from BITS Pilani (WILP), completed in March 2024. I am also preparing for CFA Level 1 to deepen my understanding of financial systems and investment strategies.
+- 🎓 **Academic Credentials**: M.Tech in Data Science and Engineering from BITS Pilani (WILP), completed in March 2024. Now pursuit of deepening my understanding of financial systems and investment strategies.
 - 📍 **Location**: Based in India.
 
 ## My Passion for Wealth Management
