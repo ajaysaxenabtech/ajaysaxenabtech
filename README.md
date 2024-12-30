@@ -3,7 +3,7 @@
 ## About Me
 
 - 👩‍💻 **Professional**: I am a Data Analyst with 10+ years of experience in IT, currently working with Capco Technologies. My expertise lies in data analysis, PySpark, and automation, with a passion for artificial intelligence and financial analysis.
-- 📍 **Location**: Based in Dwarka, Delhi, India.
+- 📍 **Location**: Based in Delhi, India.
 - 🎓 **Education**: Recently completed M.Tech in Data Science and Engineering from BITS, Pilani (WILP) in March 2024.
 - 📚 **Current Goals**: Searching for patterns in data.
 
