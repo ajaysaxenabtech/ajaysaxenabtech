@@ -1,4 +1,4 @@
-# Searching for the patterns!! 💭 
+# Searching for patterns!! 💭 
 
 ## About Me
 
