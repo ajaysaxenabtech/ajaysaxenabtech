@@ -1,4 +1,4 @@
-# Searching for the patterns!! U+1F914
+# Searching for the patterns!! THINKING FACE (U+1F914)
 
 ## About Me
 
