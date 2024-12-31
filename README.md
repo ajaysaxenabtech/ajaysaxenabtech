@@ -19,7 +19,7 @@ I combine technical acumen with a deep understanding of financial markets to dev
 
 ## Selected Projects
 
-- 🏗 **Financial Data Automation**: Automated BSE indices data processing using PySpark, streamlining data workflows and improving accuracy.
+- 🏗 **Financial Data Automation**: Automated indices data processing using Spark, streamlining data workflows and improving accuracy.
 - 📊 **Market Trend Analysis**: Built interactive time-series visualizations (RSI, MACD) to uncover actionable market insights.
 - 🌐 **AI Integration**: Researched AI-driven solutions to enhance financial analysis and decision-making.
 
