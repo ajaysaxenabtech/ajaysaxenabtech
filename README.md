@@ -16,11 +16,11 @@ I combine technical acumen with a deep understanding of financial markets to dev
 - **Tools**: JIRA, PostgreSQL, GitHub, VSCode
 - **Data Visualization**: Creating impactful visuals using Power BI and exploring tools like Apache Superset
 - **Technical Analysis**: Skilled in building and interpreting advanced indicators like:
-  - RSI (Relative Strength Index)
-  - MACD (Moving Average Convergence Divergence)
-  - Bollinger Bands (Volatility Analysis)
-  - Fibonacci Retracement (Identifying Reversal Levels)
-  - Ichimoku Cloud (Comprehensive Trend Analysis)
+  - RSI
+  - MACD 
+  - Bollinger Bands 
+  - Fibonacci Retracement 
+  - Ichimoku Cloud
 - **Predictive Modeling**: Leveraging machine learning models for forecasting asset behavior and price movements.
 - **Portfolio Optimization**: Applying modern portfolio theory, Sharpe ratios, and risk-adjusted returns to create balanced and growth-oriented investment strategies.
 
