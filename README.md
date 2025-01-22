@@ -18,7 +18,8 @@ I combine technical acumen with a deep understanding of financial markets to dev
 - **Technical Analysis**: Skilled in building and interpreting advanced indicators like:
   - RSI
   - MACD 
-  - Bollinger Bands 
+  - Bollinger Bands
+  - Kurtosis
   - Fibonacci Retracement 
   - Ichimoku Cloud
 - **Predictive Modeling**: Leveraging machine learning models for forecasting asset behavior and price movements.
