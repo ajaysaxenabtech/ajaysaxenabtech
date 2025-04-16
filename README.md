@@ -1,8 +1,6 @@
----
-
 # 🔍 Searching for Patterns in Markets & Data! 💭
 
-## About Me 
+## About Me
 
 - 👩‍💻 **Professional Expertise**: With 10+ years in IT and Data Analytics, I specialize in translating complex data into meaningful financial insights. Currently working at Capco Technologies, I blend technical proficiency with financial intuition to automate workflows and analyze investment opportunities at scale.
 - 🎓 **Academic Credentials**: M.Tech in Data Science & Engineering (BITS Pilani, 2024). Currently pursuing CFA Level 1 to deepen my expertise in finance, risk, and portfolio theory—bridging the gap between tech and financial markets.
@@ -53,8 +51,4 @@ Whether it’s ESG investing, macro trend modeling, or statistical arbitrage—I
 - 💼 [LinkedIn](https://www.linkedin.com/)
 - 🛠 [GitHub](https://github.com/)
 
----
-
-Explore my repositories and feel free to reach out. I’m always up for conversations around financial modeling, quant research, or building intelligent investment tools with open-source tech.
-
----
+> Explore my repositories and feel free to reach out. I’m always up for conversations around financial modeling, quant research, or building intelligent investment tools with open-source tech.
