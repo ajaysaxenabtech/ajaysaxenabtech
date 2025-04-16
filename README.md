@@ -1,40 +1,52 @@
-# Searching for Patterns!! 💭
+---
+
+# 🔍 Searching for Patterns in Markets & Data! 💭
 
 ## About Me
 
-- 👩‍💻 **Professional Expertise**: With over 10 years of experience in IT and Data Analytics, I specialize in transforming complex data into actionable insights. Currently working at Capco Technologies, I bring expertise in data preparation, analysis, automation, and leveraging technology to optimize wealth management strategies.
-- 🎓 **Academic Credentials**: M.Tech in Data Science and Engineering from BITS Pilani, completed in March 2024. Now implementing the open source data science tools to dive deeper into financial systems and investment strategies.
-- 📍 **Location**: Based in India.
+- 👩‍💻 **Professional Expertise**: With 10+ years in IT and Data Analytics, I specialize in translating complex data into meaningful financial insights. Currently working at Capco Technologies, I blend technical proficiency with financial intuition to automate workflows and analyze investment opportunities at scale.
+- 🎓 **Academic Credentials**: M.Tech in Data Science & Engineering (BITS Pilani, 2024). Deepening my expertise in finance, risk, and portfolio theory—bridging the gap between tech and financial markets.
+- 📍 **Location**: Based in Delhi, India.
 
-## My Passion for Wealth Management
+## My Passion for Quantitative Research & Wealth Management
 
-I combine technical acumen with a deep understanding of financial markets to develop strategies that maximize wealth growth. From analyzing market trends to automating financial data processing, I aim to deliver insights that drive results while supporting large-scale wealth management goals.
+I am driven by the intersection of data science, AI, and financial strategy. Whether it's backtesting a trading idea, building predictive models, or exploring market microstructures—I enjoy uncovering **hidden signals** in data that can drive smart investing decisions. My work integrates automation, technical analysis, and financial modeling to support robust and scalable wealth strategies.
 
-## Key Skills
+## Core Skills & Tech Stack
 
-- **Programming & Data Analytics**: Python, Spark, SQL
-- **Tools**: JIRA, PostgreSQL, GitHub, VSCode
-- **Data Visualization**: Creating impactful visuals using Power BI and exploring tools like Apache Superset
-- **Technical Analysis**: Skilled in building and interpreting advanced indicators like:
-  - RSI
-  - MACD 
-  - Bollinger Bands
-  - Kurtosis
-  - Fibonacci Retracement 
-  - Ichimoku Cloud
-- **Predictive Modeling**: Leveraging machine learning models for forecasting asset behavior and price movements.
-- **Portfolio Optimization**: Applying modern portfolio theory, Sharpe ratios, and risk-adjusted returns to create balanced and growth-oriented investment strategies.
+- **Programming & Data**: Python, PySpark, SQL  
+- **Tools & Platforms**: JIRA, GitHub, PostgreSQL, VSCode  
+- **Visualization & Reporting**: Power BI, Apache Superset (open-source dashboarding)  
+- **Quant & Technical Analysis**:
+  - Indicators: RSI, MACD, Bollinger Bands, Ichimoku Cloud, Fibonacci, Kurtosis
+  - Time Series Modeling & Forecasting
+  - Pattern Recognition & Signal Detection  
+- **Portfolio Theory**:
+  - Sharpe Ratio, Risk-Adjusted Returns
+  - Asset Allocation & Diversification Strategies  
+- **Machine Learning**:
+  - Predictive Modeling of Market Behavior
+  - Exploratory Factor Analysis and Sentiment Signals
 
-## Selected Projects
+## Highlight Projects
 
-- 🏗 **Financial Data Automation**: Automated indices large scale data processing using Spark, streamlining data workflows and improving accuracy.
-- 📊 **Market Trend Analysis**: Built interactive time-series visualizations (RSI, MACD, Bollinger Bands) to uncover actionable market insights.
-- 🌐 **AI Integration**: Researched and implemented AI-driven solutions to enhance financial analysis and decision-making.
-- 💡 **Portfolio Optimization**: Applied risk analysis and diversification strategies to create a simulated portfolio that maximized returns with minimized risk.
+- ⚙️ **Automated Financial Data Pipeline**  
+  Designed and deployed a Spark-based pipeline to ingest, process, and analyze market indices at scale—reducing manual intervention and increasing accuracy.
 
-## Vision
+- 📈 **Visual Insights into Markets**  
+  Built interactive time-series dashboards for key indicators (RSI, MACD, etc.) that support real-time investment decision-making.
 
-I firmly believe in the power of combining data science with financial expertise to create innovative wealth management solutions. My approach is rooted in data-driven decision-making, enabling consistent growth in ever-changing markets. I aim to be part of a dynamic team responsible for managing large-scale wealth portfolios and driving measurable results.
+- 🧠 **AI-Enhanced Market Intelligence**  
+  Researched and prototyped AI-based models to augment traditional financial analysis and extract high-alpha signals from alternative data.
+
+- 📊 **Simulated Portfolio Engine**  
+  Built a Python-based simulator to test various portfolio construction strategies using historical data, optimizing for return vs. volatility.
+
+## Vision & Aspirations
+
+I envision myself evolving into a **Quantitative Researcher** focused on applying data science to solve high-impact problems in investing, risk, and wealth creation. I believe in rigorous analysis, disciplined execution, and continuous learning to navigate complex financial systems.
+
+Whether it’s ESG investing, macro trend modeling, or statistical arbitrage—I am excited to contribute to teams working at the frontier of finance and technology.
 
 ## Let’s Connect
 
@@ -42,4 +54,7 @@ I firmly believe in the power of combining data science with financial expertise
 - 🛠 [GitHub](https://github.com/)
 
 ---
-Explore my repositories to see how I combine data science and financial analysis to craft robust investment strategies. I am always open to collaboration and discussions on creating value through technology and finance!
+
+Explore my repositories and feel free to reach out. I’m always up for conversations around financial modeling, quant research, or building intelligent investment tools with open-source tech.
+
+---
