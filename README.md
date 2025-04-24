@@ -3,7 +3,7 @@
 ## About Me
 
 - 👩‍💻 **Professional Expertise**: With 10+ years in IT and Data Analytics, I specialize in translating complex data into meaningful financial insights. Currently working at Capco Technologies, I blend technical proficiency with financial intuition to automate workflows and analyze investment opportunities at scale.
-- 🎓 **Academic Credentials**: M.Tech in Data Science & Engineering (BITS Pilani, 2024). Currently pursuing CFA Level 1 to deepen my expertise in finance, risk, and portfolio theory—bridging the gap between tech and financial markets.
+- 🎓 **Academic Credentials**: M.Tech in Data Science & Engineering (BITS Pilani, 2024). Deepening my expertise in finance, risk, and portfolio theory—bridging the gap between tech and financial markets.
 - 📍 **Location**: Based in Delhi, India.
 
 ## My Passion for Quantitative Research & Wealth Management
