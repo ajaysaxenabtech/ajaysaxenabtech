@@ -48,7 +48,7 @@ Whether it’s ESG investing, macro trend modeling, or statistical arbitrage—I
 
 ## Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 🛠 [GitHub](https://github.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ajaysaxena317/)
+- 🛠 [GitHub](https://github.com/ajaysaxenabtech)
 
 > Explore my repositories and feel free to reach out. I’m always up for conversations around financial modeling, quant research, or building intelligent investment tools with open-source tech.
