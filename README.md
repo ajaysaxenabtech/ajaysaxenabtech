@@ -6,9 +6,9 @@
 - 🎓 **Academic Credentials**: M.Tech in Data Science & Engineering (BITS Pilani, 2024). Deepening my expertise in finance, risk, and portfolio theory—bridging the gap between tech and financial markets.
 - 📍 **Location**: Based in Delhi, India.
 
-## My Passion for Quantitative Research & Wealth Management
+## My Passion for Quantitative Research 
 
-I am driven by the intersection of data science, AI, and financial strategy. Whether it's backtesting a trading idea, building predictive models, or exploring market microstructures—I enjoy uncovering **hidden signals** in data that can drive smart investing decisions. My work integrates automation, technical analysis, and financial modeling to support robust and scalable wealth strategies.
+I am driven by the intersection of data science, AI, and financial strategy. Whether it's backtesting a trading idea, building predictive models, or exploring market microstructures—I enjoy uncovering **hidden signals** in data that can drive smart investing decisions. My work integrates automation, technical analysis, and financial modeling to support robust and scalable.
 
 ## Core Skills & Tech Stack
 
